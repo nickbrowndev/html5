@@ -1,0 +1,10 @@
+<web-app xmlns="http://java.sun.com/xml/ns/javaee" version="2.5">
+    <!-- <servlet>
+        <servlet-name>comingsoon</servlet-name>
+        <servlet-class>mysite.server.comingsoon</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>comingsoon</servletname>
+        <url-pattern>/*</urlpattern>
+    </servlet-mapping> -->
+</web-app>
