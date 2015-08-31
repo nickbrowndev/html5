@@ -10,6 +10,7 @@
         <p id="copyright"> Copyright NB Ltd</p>
     </jsp:attribute>
     <jsp:body>
-        <p>Hi, I'm the heart of the message</p>
+        <form action="#">
+        </form>
     </jsp:body>
 </t:basepage>
