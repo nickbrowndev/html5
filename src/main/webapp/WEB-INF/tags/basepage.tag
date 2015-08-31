@@ -1,6 +1,6 @@
-<%tag description="Base Page Template" pageEncoding="UTF-8"%>
-<%attribute name="header" fragrant="true" %>
-<%attribute name="footer" fragrant="true" %>
+<%@tag description="Base Page Template" pageEncoding="UTF-8"%>
+<%@attribute name="header" fragment="true" %>
+<%@attribute name="footer" fragment="true" %>
 <html>
     <head>
     </head>
