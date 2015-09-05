@@ -2,7 +2,7 @@
 <%@attribute name="title" fragment="false" required="true"%>
 <%@taglib prefix="t" tagdir="/WEB-INF/tags"%>
 
-<header>
+<header class="page-header">
     <h1><%=title%></h1>
 
     <t:nav/>
